@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training2",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpincheira/cypress-training2.git"
+  },
+  "keywords": [
+    "ui-testing.",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "[rodrigo] <[rodrigo.pincheira05@gmail.com]> ([rpincheira])",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpincheira/cypress-training2/issues"
+  },
+  "homepage": "https://github.com/rpincheira/cypress-training2#readme"
+}
